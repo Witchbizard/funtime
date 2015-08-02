@@ -2,7 +2,7 @@ using System;
 
 // stuff
 
-//This is broken kinda, but I am too tired to fix it. 
+//This is broken kinda, but I am too tired to fix it. I guess not even kinda, it just is broked.
 
 using System;
 using System.Collections.Generic;
